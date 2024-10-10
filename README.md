@@ -1,1 +1,1 @@
-# Employee-burnout-predition
+# Employee-burnout-prediction
